@@ -29,7 +29,7 @@ function App() {
                         <Card />
                     </div>
                 </div>
-                <h2>Projects</h2>
+              
                 <Project />
             </div>
 
